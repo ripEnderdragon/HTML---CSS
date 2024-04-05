@@ -1,0 +1,25 @@
+body {
+    font-family: Arial,  sans-serif; /* keluarga font */
+    font-size: x-large; /* Ukuran font utama pada tag <p></p> */
+    background-color: #f0f0f0; /* Warna latar belakang laman web */
+    color: #333333; /* Warna teks */ 
+}
+h1 {
+    color: #00a800; /* Warna tajuk (header)*/
+    font-size: 24px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: medium;
+    color: aqua;
+}
+
+li {
+    color: crimson;
+}
+
+p { 
+    color: gold;
+}
